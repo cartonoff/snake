@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/aleks/Documents/programming/snake/build",
+  "command": "C:/Users/aleks/gcc/bin/g++.exe   -g -o CMakeFiles/snake.dir/snake.cpp.obj -c C:/Users/aleks/Documents/programming/snake/snake.cpp",
+  "file": "C:/Users/aleks/Documents/programming/snake/snake.cpp",
+  "output": "CMakeFiles/snake.dir/snake.cpp.obj"
+}
+]
