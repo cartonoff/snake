@@ -1,3 +1,0 @@
-C:/Users/aleks/Documents/programming/snake/build/CMakeFiles/snake.dir
-C:/Users/aleks/Documents/programming/snake/build/CMakeFiles/edit_cache.dir
-C:/Users/aleks/Documents/programming/snake/build/CMakeFiles/rebuild_cache.dir
